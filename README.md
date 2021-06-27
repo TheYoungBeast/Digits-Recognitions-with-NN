@@ -5,5 +5,6 @@ Digits Recognition using Neural Network, TensorFlow2 Framework and Python
 
 ![alt text](/example-test-results/example1.PNG)
 
-## 
+## Interpretation
+A brief explanation on how to interpret shown results:
 ![alt text](/example-test-results/interpretation.png)
